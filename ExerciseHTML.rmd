@@ -943,7 +943,7 @@ normal"><span style="font-size:13.0pt;mso-bidi-font-size:12.0pt;font-family:
 mso-fareast-language:EN-IN">Data Partition<o:p></o:p></span></b></p>
 
 <p class="MsoNormal"><span style="font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;
-color:#333333;background:white">Create data partition – training and cross
+color:#333333;background:white">Create data partition Â– training and cross
 validation set from the train.csv file. This is required to measure the
 performance of the model.<o:p></o:p></span></p>
 
